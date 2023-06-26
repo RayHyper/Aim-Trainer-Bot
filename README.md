@@ -6,5 +6,7 @@ Made for educational purposes
 
 ![image](https://github.com/RayHyper/Aim-Trainer-Bot/assets/74573089/a15d4227-d18a-4e72-94d3-5c4f324aa054)
 
-https://github.com/RayHyper/Aim-Trainer-Bot/assets/74573089/1accecb7-b868-4188-b17a-9a128aafe6f7
+https://github.com/RayHyper/Aim-Trainer-Bot/assets/74573089/068a3e4d-c08b-478a-a929-c253b0cc85ae
+
+
 
