@@ -8,5 +8,5 @@ Made for educational purposes
 
 https://github.com/RayHyper/Aim-Trainer-Bot/assets/74573089/068a3e4d-c08b-478a-a929-c253b0cc85ae
 
-
+https://github.com/RayHyper/Aim-Trainer-Bot/assets/74573089/0abc6205-0c07-4514-9363-08ab158eeb50
 
